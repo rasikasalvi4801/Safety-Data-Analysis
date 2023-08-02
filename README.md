@@ -1,4 +1,4 @@
-# Safety-Data-Analysis
+## Safety-Data-Analysis
 Analysis and Dashboard presenting the injury data over three years.
 
 # Problem Statement: 
@@ -22,7 +22,8 @@ The dataset used for this task was presented by https://www.contextures.com/xlsa
 6. What is the number of injuries and average incident cost of each plant?									
 
 # Dashboard and Visualizations:
-![screencapture-file-C-Users-ADMIN-Documents-SafetyData-pdf-2023-08-02-16_21_10](https://github.com/rasikasalvi4801/Safety-Data-Analysis/assets/72073065/8825a6f5-3e16-476c-9a64-ab691ea6ca81)
+
+![screencapture-file-C-Users-ADMIN-Documents-SafetyData-pdf-2023-08-02-16_21_10](https://github.com/rasikasalvi4801/Safety-Data-Analysis/assets/72073065/0c3142d3-a6d8-4f4d-8e54-2cb8de700bac)
 
 # Insights:
 1. As we can see from the dashboard, filters have been applied using the gender, shift and injury location.
