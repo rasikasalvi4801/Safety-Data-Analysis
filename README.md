@@ -37,7 +37,7 @@ The dataset used for this task was presented by https://www.contextures.com/xlsa
 9. Also from the dataset it is evident that day and night injuries were maximum with 179 and 177 whereas maybe due to lunchtime and slowing down day the afternoon injuries were comparatively less with the number being 161.
 
 ## Recommendations:
-1. we can analyse why the injuries were so high in 2020 and then what measures were taken in 2021 to bring down that rate. So on the basis of that, we can bring down the rate even more.
+1. We can analyse why the injuries were so high in 2020 and then what measures were taken in 2021 to bring down that rate. So on the basis of that, we can bring down the rate even more.
 2. As we can see the 50+ and 35-49 age group is mostly injured we should take certain precautions because this is a vulnerable age group and any injury can be fatal.
 3. Shipping department should be analysed as to why many injuries are happening there. Is it because of some machinery which is broken or because of some tools?
 4. Also Montana plant needs to check the machinery or equipment as most injuries were from that plant. Lowa plant can improve safety more as it has the least number of injuries.
